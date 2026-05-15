@@ -52,4 +52,4 @@ jobs:
               labels: ['test-passed']
             });
             
-            console.log('✅ Label test-passed added successfully');
+            console.log('✅ Labl test-passed added successfully');
